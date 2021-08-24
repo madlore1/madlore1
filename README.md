@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @madlore1
+- 👀 I’m interested in programming, websites, music, graphic and product design
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate 
